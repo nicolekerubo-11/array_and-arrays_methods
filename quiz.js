@@ -7,6 +7,8 @@ function sumArray(arr) {
   return sum;
 }
 
+i=0; i<arr.length; i++ //initialization, condition, increment/decrement
+
 // 2. Write a function that takes an array and returns the largest number in the array.
 function largestNumber(arr) {
   let largest = arr[0];
