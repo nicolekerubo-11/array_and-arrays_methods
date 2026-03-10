@@ -133,7 +133,7 @@ console.log("Original after map:", numbersIteration);
 const evens = [1, 2, 3, 4, 5].filter(num => num % 2 === 0);
 console.log("Filtered evens:", evens);
 
-
+// create an array with 20 numbers and filter out the prime numbers from the array and print the prime numbers in the console
 const isPrime = num => {
   if (num <= 1) return false;
    for (let i = 2; i <= Math.sqrt(num); i++) {
