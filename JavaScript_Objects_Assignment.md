@@ -85,7 +85,8 @@ Write a function that merges them into one single object.
 Write a function that removes a specified property from an object
 without modifying the original object.
 
-------------------------------------------------------------------------
+
+-----------------------------------------------------------------------
 
 ## 🔟 Validate Object Structure
 
